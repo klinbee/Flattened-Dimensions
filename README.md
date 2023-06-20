@@ -20,8 +20,6 @@ Jochen Jacobs' Github: https://github.com/jacobsjo
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/77f79ee2-708a-487a-8010-b7bdeccedba9)
 
-Strongly recommend trying it out if you want to mess around with worldgen, and show your support to him if you use this datapack!
-
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, making the nether/end normal and leave the overworld flat, do something different with oceans, etc.)
 
 Also, likely due to a bug, Nether Fossils do not generate. I swear it literally makes no sense why, you cannot even use the place structure command to place any. 
