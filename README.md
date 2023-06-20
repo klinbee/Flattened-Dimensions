@@ -13,7 +13,7 @@ This datapack makes the overworld, nether, and end superflat, while maintaining 
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/9b2e85d0-8783-42af-a372-0487639c9657)
 
-
+![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/77f79ee2-708a-487a-8010-b7bdeccedba9)
 
 Oceans and rivers are normal, but all of the terrain above is flat.
 
@@ -26,3 +26,5 @@ Strongly recommend trying it out if you want to mess around with worldgen, and s
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, making the nether/end normal and leave the overworld flat, do something different with oceans, etc.)
 
 Also, likely due to a bug, Nether Fossils do not generate. I swear it literally makes no sense why, you cannot even use the place structure command to place any. 
+
+Desert Temples were the same way, but I pulled some witch-craft to make them work (it took 5 hours 🙃)
