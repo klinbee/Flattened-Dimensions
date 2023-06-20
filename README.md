@@ -4,11 +4,11 @@ Tired of the boring single-biome vanilla superflat options? Tired of not having 
 This datapack is the solution. 
 
 This datapack makes the overworld, nether, and end superflat, while maintaining biomes, structures, caves, rivers, and oceans, ores, etc.
-
 Oceans and rivers are normal, but all of the terrain above is flat.
 
 This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
-Snowcapped: https://snowcapped.jacobsjo.eu Jochen Jacobs' Github: https://github.com/jacobsjo
+Snowcapped: https://snowcapped.jacobsjo.eu
+Jochen Jacobs' Github: https://github.com/jacobsjo
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/25ddc01a-0c9f-4274-9f9b-45a6c1b4b16e)
 
