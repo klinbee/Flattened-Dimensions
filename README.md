@@ -23,7 +23,7 @@ Modeled after the "Overworld" superflat preset, all the land is capped at sea-le
 
 (img)
 
-[1]: Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
+[^1]: Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
 
 This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
 
