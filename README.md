@@ -56,6 +56,7 @@ Relating to the Classic Superflat Version:
   -The significance of this is that the Advancement "A Balanced Diet" requires eating all food items. There is no other source of Chorus Fruit, and the only other source of Kelp is the Wandering Trader, which would be cumbersome. 
   -With that, All Advancements are possible given the limitations. I've put the challenge up to you to figure out how ;). Some Advancements are straight-forward, and some convoluted.
 -The main reason I made the Nether generate at y = 32 was to avoid the ugly void fog at the bottom of the Nether, and also to make it in-line with the overworld/end (as they generate at y = 64, felt right to go half that).
+  -Additionally, that meant that Nether Ruined Portals wouldn't float (Again, unable to change height of generation).
 -All of the structures that generate with a "beardifier" (function that adds generates terrain below a structure) made a big mess under the bedrock, so I removed that from all of those structures.
 -One of the structures that can have it's height of generation changed is the Bastion, which I moved up slightly for the Nether.
 -For some reason, stopping flowers from generating also stops them from being generated with bonemeal, even though this isn't true in the nether...
