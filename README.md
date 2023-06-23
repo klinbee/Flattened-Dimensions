@@ -42,7 +42,7 @@ Jochen Jacobs' Github: https://github.com/jacobsjo
 
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, dimension specific packs, etc.)
 
-## Here are some technical details of the Datapack for those who are curious or have a lot of Minecraft Knowledge 🤓.
+## Technical Details of the Datapack
 
 Relating to the Classic Superflat Version:
 -Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
