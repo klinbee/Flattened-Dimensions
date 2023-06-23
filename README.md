@@ -1,9 +1,17 @@
-# Better-Superflat Datapack for Minecraft 1.20
-Tired of the boring single-biome vanilla superflat options? Tired of not having all the structures you'd normally get? Wish the nether was also superflat? Maybe even the end. 
+# Better Superflat Datapack Collection for Minecraft 1.20
 
-This datapack is the solution. 
+Tired of the boring single-biome vanilla superflat options?
 
-This datapack makes the overworld, nether, and end superflat, while maintaining biomes, structures, caves, rivers, and oceans, ores, etc.
+Try out my Datapacks!
+
+All of the datapacks in this collection create superflat-style world generation, but have all the biomes and structures of a regular world.
+
+There are a few different varieties of packs included for extra customization. 
+
+
+
+This datapack makes the overworld, nether, and end all superflat while keeping their biomes, structures, caves, rivers, oceans, ores, foliage, etc.
+
 Oceans and rivers are normal, but all of the terrain above is flat.
 
 This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
