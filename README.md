@@ -46,7 +46,7 @@ If you have any suggested changes to this, I can upload them for you (like addin
 
 ## Relating to the Classic Superflat Versions:
 * Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
-..*This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate. 
+..* This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate. 
   
   -This is also why Monuments cut through the bedrock, Strongholds and Mineshafts are under the bedrock. This presents an interesting challenge to the player, and is kind of funny.
     
