@@ -15,6 +15,7 @@ Modeled after the Classic Default Superflat preset, 1 layer of bedrock, and 3 bl
 Version 2:
 Like Version 1, but it has foliage* and bodies of water.
 
+
 (img)
 
 Version 3:
