@@ -8,22 +8,22 @@ This even includes the Nether and the End dimensions!
 I've made a few different varieties of the datapack because I like giving out more options.
 
 ## Version 1:
-Modeled after the Classic Default Superflat preset, 1 layer of bedrock, and 3 blocks of terrain above it. No foliage*, no caves, no ores, no bodies of water. Just structures and biomes.
+Modeled after the Classic Default Superflat preset, 1 layer of bedrock, and 3 blocks of terrain above it. No foliage[^1], no caves, no ores, no bodies of water. Just structures and biomes.
 
 (img)
 
 ## Version 2:
-Like Version 1, but it has foliage* and bodies of water.
+Like Version 1, but it has foliage[^1] and bodies of water.
 
 
 (img)
 
 ## Version 3:
-Modeled after the "Overworld" superflat preset, all the land is capped at sea-level, and foliage*, caves, ores, rivers, and oceans still generate like normal.
+Modeled after the "Overworld" superflat preset, all the land is capped at sea-level, and foliage[^1], caves, ores, rivers, and oceans still generate like normal.
 
 (img)
 
-*Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
+[^1]Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
 
 This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
 
