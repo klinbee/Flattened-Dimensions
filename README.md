@@ -58,6 +58,7 @@ Relating to the Classic Superflat Version:
 -The main reason I made the Nether generate at y = 32 was to avoid the ugly void fog at the bottom of the Nether, and also to make it in-line with the overworld/end (as they generate at y = 64, felt right to go half that).
 -All of the structures that generate with a "beardifier" (function that adds generates terrain below a structure) made a big mess under the bedrock, so I removed that from all of those structures.
 -One of the structures that can have it's height of generation changed is the Bastion, which I moved up slightly for the Nether.
+-For some reason, stopping flowers from generating also stops them from being generated with bonemeal, even though this isn't true in the nether...
 
 Relating to Version 2:
 -Due to the strange world-height flattening, I've partially edited the Biome Parameters to make some of the underground biomes (specifically the deep dark) generate close to how it normally would.
