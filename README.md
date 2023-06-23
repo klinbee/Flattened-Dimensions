@@ -42,12 +42,11 @@ Jochen Jacobs' Github: https://github.com/jacobsjo
 
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, dimension specific packs, etc.)
 
-## Technical Details of the Datapack
+# Technical Details of the Datapack
 
-Relating to the Classic Superflat Version:
--Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
-
--This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate. 
+## Relating to the Classic Superflat Versions:
+*Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
+..*This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate. 
   
   -This is also why Monuments cut through the bedrock, Strongholds and Mineshafts are under the bedrock. This presents an interesting challenge to the player, and is kind of funny.
     
@@ -64,7 +63,7 @@ Relating to the Classic Superflat Version:
 -One of the structures that can have it's height of generation changed is the Bastion, which I moved up slightly for the Nether.
 -For some reason, stopping flowers from generating also stops them from being generated with bonemeal, even though this isn't true in the nether...
 
-Relating to Version 2:
+## Relating to Version 3:
 -Due to the strange world-height flattening, I've partially edited the Biome Parameters to make some of the underground biomes (specifically the deep dark) generate close to how it normally would.
 -It seems that Desert Temple's and Jungle Temple's generation is linked to sea-level. I had to make identical custom structures in order for them to generate.
 -Nether Fossils are the same way, which is strange. I tried the custom structure approach with them, but it didn't work properly because they would generate in lava and stick out.
