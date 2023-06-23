@@ -8,7 +8,7 @@ This even includes the Nether and the End dimensions!
 I've made a few different varieties of the datapack because I like giving out more options.
 
 ## Version 1:
-Modeled after the Classic Default Superflat preset, 1 layer of bedrock, and 3 blocks of terrain above it. No foliage[^1], no caves, no ores, no bodies of water. Just structures and biomes.
+Modeled after the Classic Default Superflat preset; 3 layers of terrain, one layer of bedrock. No foliage[^1], no caves, no ores, no bodies of water. Just structures and biomes.
 
 (img)
 
@@ -19,7 +19,7 @@ Like Version 1, but it has foliage[^1] and bodies of water.
 (img)
 
 ## Version 3:
-Modeled after the "Overworld" superflat preset, all the land is capped at sea-level, and foliage[^1], caves, ores, rivers, and oceans still generate like normal.
+Modeled after the "Overworld" superflat preset; all the land is capped at sea-level. Foliage[^1], caves, ores, rivers, and oceans still generate like normal.
 
 (img)
 
@@ -46,8 +46,11 @@ If you have any suggested changes to this, I can upload them for you (like addin
 
 Relating to the Classic Superflat Version:
 -Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
+
 -This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate. 
+  
   -This is also why Monuments cut through the bedrock, Strongholds and Mineshafts are under the bedrock. This presents an interesting challenge to the player, and is kind of funny.
+    
     -Don't worry though! The true bottom of the world is at y =-64, so you can safely live, place blocks, and mine under the bedrock!
 -On a similar note, Buried Treasures are hard-coded to generate a certain distance down (kind of? it's confusing) and won't generate naturally. I've solved this by recreating it as a custom structure, which has customizable heights. 
   -Because of a quirk with custom structures, Buried Treasures won't generate at the (9,9) chunk coordinate (like they normally do, if you didn't know) and instead will generate at the (0,0) chunk coordinate. 
