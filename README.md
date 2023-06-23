@@ -7,18 +7,18 @@ This even includes the Nether and the End dimensions!
 
 I've made a few different varieties of the datapack because I like giving out more options.
 
-Version 1:
+## Version 1:
 Modeled after the Classic Default Superflat preset, 1 layer of bedrock, and 3 blocks of terrain above it. No foliage*, no caves, no ores, no bodies of water. Just structures and biomes.
 
 (img)
 
-Version 2:
+## Version 2:
 Like Version 1, but it has foliage* and bodies of water.
 
 
 (img)
 
-Version 3:
+## Version 3:
 Modeled after the "Overworld" superflat preset, all the land is capped at sea-level, and foliage*, caves, ores, rivers, and oceans still generate like normal.
 
 (img)
@@ -42,7 +42,7 @@ Jochen Jacobs' Github: https://github.com/jacobsjo
 
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, dimension specific packs, etc.)
 
-Here are some technical details of the Datapack for those who are curious or have a lot of Minecraft Knowledge 🤓.
+## Here are some technical details of the Datapack for those who are curious or have a lot of Minecraft Knowledge 🤓.
 
 Relating to the Classic Superflat Version:
 -Mansions, Monuments, Strongholds, Mineshafts, End Cities, Nether Fossils (which for some reason are considered a structure in the code), all have hard-coded heights of generation, so they cannot be moved with a Datapack.
