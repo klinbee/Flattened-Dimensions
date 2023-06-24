@@ -67,7 +67,6 @@ If you have any suggested changes to this, I can upload them for you (like addin
 |   "Why is the world at y=64?"   | Some structures won't spawn below that y=level, like Mansions.      |
 | "Why don't geodes/spawners spawn in the Classic Superflat?" | There is sadly not enough terrain for them to generate.     |
 | "Why does the End not have a perfect flat plane?"     | End cities generate at y=64, the Obsidian End Spawn platform generates at y=50. I can't change either of these things so you are either below the bedrock or no end cities.         |
-* Why does X structure spawn here?
 
 # Technical Details of the Datapack
 
