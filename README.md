@@ -10,23 +10,19 @@ I've made a few different varieties of the datapack because I like giving out mo
 ## Version 1:
 Modeled after the Classic Default Superflat preset; 3 layers of terrain, one layer of bedrock. No foliage[^1], no caves, no ores, no bodies of water. Just structures and biomes.
 
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/d81be696-5c3e-42d9-a50a-1f7a3edb2b48)
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/aae4e032-2fba-4e81-8119-73131e2e13ac)
 
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/b492b571-a7a5-467a-8de6-629dac9df25b)
 
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/aae4e032-2fba-4e81-8119-73131e2e13ac)
-
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/1179e612-1e43-4ce4-9423-28cb9133376e)
+
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/d81be696-5c3e-42d9-a50a-1f7a3edb2b48)
 
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/1991470e-91a9-4e57-82cd-90be218a16ec)
 
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/a46fdac3-33d6-4673-810f-0c901d441fc4)
 
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/6e1bd23a-4151-48f8-b0b1-a5a0fa8ae7ca)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/bcf8dbf1-8653-4565-8383-cada8482f843)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/10e01662-0d3d-44f4-9b7f-ff8c4e01e5c3)
 
 ## Version 2:
 Like Version 1, but it has foliage[^1] and bodies of water.
@@ -39,18 +35,21 @@ Like Version 1, but it has foliage[^1] and bodies of water.
 
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/10b03050-b954-426b-8969-0500984e38b6)
 
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/bcf8dbf1-8653-4565-8383-cada8482f843)
+
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/10e01662-0d3d-44f4-9b7f-ff8c4e01e5c3)
+
 ## Version 3:
 Modeled after the "Overworld" superflat preset; all the land is capped at sea-level. Foliage[^1], caves, ores, rivers, and oceans still generate like normal.
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/25ddc01a-0c9f-4274-9f9b-45a6c1b4b16e)
 
-![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/464efe27-a953-4321-b763-cd4f62c72590)
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/b7c5dab9-1970-43f0-95d4-8d2b1ba4e755)
 
-![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/4009b334-2bd9-496f-a169-99d131e7382d)
+![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/fa199173-4587-48ab-b076-b3ef3b38a625)
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/9b2e85d0-8783-42af-a372-0487639c9657)
 
-![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/77f79ee2-708a-487a-8010-b7bdeccedba9)
 
 [^1]: Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
 
