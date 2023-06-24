@@ -1,6 +1,6 @@
-# Better Superflat Datapack Collection for Minecraft 1.20 (Page WIP)
+# Better Superflat Datapack Collection for Minecraft 1.20
 
-Tired of the boring single-biome vanilla superflat options?
+Tired of the boring single-biome vanilla superflat options?  
 Try out my Datapacks!
 All of the datapacks in this collection create superflat-style world generation, but have all the biomes and structures of a regular world.
 This even includes the Nether and the End dimensions! 
@@ -60,9 +60,18 @@ Jochen Jacobs' Github: https://github.com/jacobsjo
 
 If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, dimension specific packs, etc.)
 
+# FAQ
+| Question       | Answer         |
+| ------------- |:-------------:|
+| "Why does X structure spawn in bedrock/below bedrock?"     | It is unchangable using a Datapack |
+|   "Why is the world at y=64?"   | Some structures won't spawn below that y=level, like Mansions.      |
+| "Why don't geodes/spawners spawn in the Classic Superflat?" | There is sadly not enough terrain for them to generate.     |
+| "Why does the End not have a perfect flat plane?"     | End cities generate at y=64, the Obsidian End Spawn platform generates at y=50. I can't change either of these things so you are either below the bedrock or no end cities.         |
+* Why does X structure spawn here?
+
 # Technical Details of the Datapack
 
-## Relating to the Classic Superflat Versions:
+## About the Classic Superflat Versions:
 * Mansions, Monuments, Strongholds, Mineshafts, End Cities and Nether Fossils[^2], all have hard-coded heights of generation, so they cannot be moved with a Datapack.  
   * This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate.
   * This is also why Monuments cut through the bedrock, Strongholds and Mineshafts are under the bedrock. This presents an interesting challenge to the player, and is kind of funny.
@@ -79,7 +88,7 @@ If you have any suggested changes to this, I can upload them for you (like addin
 * One of the structures that can have it's height of generation changed is the Bastion, which I moved up slightly for the Nether.
 * For some reason, stopping flowers from generating also stops them from being generated with bonemeal, even though this isn't true in the nether...
 
-## Relating to Version 3:
+## About Version 3:
 * Due to the strange world-height flattening, I've partially edited the Biome Parameters to make some of the underground biomes (specifically the deep dark) generate close to how it normally would.
 * It seems that Desert Temple's and Jungle Temple's generation is linked to sea-level. I had to make identical custom structures in order for them to generate.
 * Nether Fossils are the same way, which is strange. I tried the custom structure approach with them, but it didn't work properly because they would generate in lava and stick out.
