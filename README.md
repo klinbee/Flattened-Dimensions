@@ -1,73 +1,54 @@
-# Better Superflat Datapack Collection for Minecraft 1.20
+# Better Superflat Datapack Collection
 
-Tired of the boring single-biome vanilla superflat options?  
+### Tired of the boring single-biome vanilla superflat options?  
 Try out my Datapacks!
-All of the datapacks in this collection create superflat-style world generation, but have all the biomes and structures of a regular world.
-This even includes the Nether and the End dimensions! 
+All of the datapacks in this collection let you generate Superflat-style worlds, but have **all the biomes and structures**.  
+**Even including the Nether and the End dimensions!**  
 
-I've made a few different varieties of the datapack because I like giving out more options.
+---
 
-## Version 1:
-Modeled after the Classic Default Superflat preset; 3 layers of terrain, one layer of bedrock. No foliage[^1], no caves, no ores, no bodies of water. Just structures and biomes.
-
+## Superflat Classic Version 1:
+Modeled after the Classic Default Superflat preset; Boring to look at, an interesting challenge to play.  
+[More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V1MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/aae4e032-2fba-4e81-8119-73131e2e13ac)
 
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/b492b571-a7a5-467a-8de6-629dac9df25b)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/1179e612-1e43-4ce4-9423-28cb9133376e)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/d81be696-5c3e-42d9-a50a-1f7a3edb2b48)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/1991470e-91a9-4e57-82cd-90be218a16ec)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/a46fdac3-33d6-4673-810f-0c901d441fc4)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/6e1bd23a-4151-48f8-b0b1-a5a0fa8ae7ca)
-
-## Version 2:
-Like Version 1, but it has foliage[^1] and bodies of water.
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/d0c1350f-9d1f-46e4-a885-cf145215176c)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/2a50fb65-c548-4d82-893e-bf3ae2188324)
-
+## Superflat Classic Version 2:
+Like Version 1, but a lot more aesthetically pleasing with the foliage and water.  
+[More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V2MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/7ec717c7-0a71-4ae5-85d5-7b68ba91cbc5)
 
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/10b03050-b954-426b-8969-0500984e38b6)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/bcf8dbf1-8653-4565-8383-cada8482f843)
-
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/10e01662-0d3d-44f4-9b7f-ff8c4e01e5c3)
-
-## Version 3:
-Modeled after the "Overworld" superflat preset; all the land is capped at sea-level. Foliage[^1], caves, ores, rivers, and oceans still generate like normal.
-
-![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/25ddc01a-0c9f-4274-9f9b-45a6c1b4b16e)
-
+## Superflat World Version 3 & 3.5:
+Modeled after the "Overworld" Superflat Preset; all the land is capped at sea-level. Foliage,[^1] ores, rivers, and oceans all generate like normal.  
+Version 3 doesn't generate with caves, but Version 3.5 adds them!  
+[More mages and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V3MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/b7c5dab9-1970-43f0-95d4-8d2b1ba4e755)
 
-![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/fa199173-4587-48ab-b076-b3ef3b38a625)
+---
 
-![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/9b2e85d0-8783-42af-a372-0487639c9657)
+### Some parts helped made with Jochen Jacobs' Snowcapped Tool!
 
-This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
+[Snowcapped Multi-Noise Biome Tool Editor](https://snowcapped.jacobsjo.eu)  
+[Jochen Jacobs' Github](https://github.com/jacobsjo)
 
-Snowcapped: https://snowcapped.jacobsjo.eu
-Jochen Jacobs' Github: https://github.com/jacobsjo
+---
 
-If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, dimension specific packs, etc.)
+### If you have any suggested changes to this, I can upload them for you (like adding a nether roof, redesigning the end, only overworld/nether/end superflat packs, etc.)
+
+---
 
 # FAQ
 | Question       | Answer         |
 | ------------- |:-------------:|
-| "Why does X structure spawn in bedrock/below bedrock?"     | It is unchangable using a Datapack |
-|   "Why is the world at y=64?"   | Some structures won't spawn below that y=level, like Mansions.      |
-| "Why don't geodes/spawners spawn in the Classic Superflat?" | There is sadly not enough terrain for them to generate.     |
-| "Why does the End not have a perfect flat plane?"     | End cities generate at y=64, the Obsidian End Spawn platform generates at y=50. I can't change either of these things so you are either below the bedrock or no end cities.         |
+| "Why does X structure spawn in bedrock/below bedrock?"     | **It is unchangable using a Datapack** |
+| "Will I die/can I build under the bedrock?"     | **You won't die, and you can build! The true bottom is still at y=-64.** |
+|   "Why is the world at y=64?"   | **Some structures won't spawn below that y-level, like Mansions.**      |
+| "Why don't geodes/spawners spawn in the Classic Superflat?" | **There is sadly not enough terrain for them to generate.**    |
+| "Why does the End not generate as a perfect flat plane?"     | **End cities generate at y=64, the End Spawn Platform generates at y=50. Datapacks can't change this, so either no End Cities or spawn below the bedrock.**         |
+|   "Are All Advancements possible on these?"   | **Yes! You should try to get them all ;). It can be quite the challenge on Superflat Classic, but the other versions are easier.**      |
 
 # Technical Details of the Datapack
 
-## About the Classic Superflat Versions:
+### About the Classic Superflat Versions:
 * Mansions, Monuments, Strongholds, Mineshafts, End Cities and Nether Fossils[^2], all have hard-coded heights of generation, so they cannot be moved with a Datapack.  
   * This is why the Superflat world generates at the height that it does. If were much lower, Mansions wouldn't generate.
   * This is also why Monuments cut through the bedrock, Strongholds and Mineshafts are under the bedrock. This presents an interesting challenge to the player, and is kind of funny.
@@ -84,7 +65,7 @@ If you have any suggested changes to this, I can upload them for you (like addin
 * One of the structures that can have it's height of generation changed is the Bastion, which I moved up slightly for the Nether.
 * For some reason, stopping flowers from generating also stops them from being generated with bonemeal, even though this isn't true in the nether...
 
-## About Version 3:
+### About Version 3:
 * Due to the strange world-height flattening, I've partially edited the Biome Parameters to make some of the underground biomes (specifically the deep dark) generate close to how it normally would.
 * It seems that Desert Temple's and Jungle Temple's generation is linked to sea-level. I had to make identical custom structures in order for them to generate.
 * Nether Fossils are the same way, which is strange. I tried the custom structure approach with them, but it didn't work properly because they would generate in lava and stick out.
