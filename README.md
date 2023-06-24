@@ -50,9 +50,6 @@ Modeled after the "Overworld" superflat preset; all the land is capped at sea-le
 
 ![image](https://github.com/Quidvio/Better-Superflat/assets/105707614/9b2e85d0-8783-42af-a372-0487639c9657)
 
-
-[^1]: Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
-
 This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
 
 Snowcapped: https://snowcapped.jacobsjo.eu
@@ -92,4 +89,5 @@ If you have any suggested changes to this, I can upload them for you (like addin
 * It seems that Desert Temple's and Jungle Temple's generation is linked to sea-level. I had to make identical custom structures in order for them to generate.
 * Nether Fossils are the same way, which is strange. I tried the custom structure approach with them, but it didn't work properly because they would generate in lava and stick out.
 
+[^1]: Foliage means the grass, trees, plants, and flowers that would normally generate in a world. In Minecraft though, these are called "features" and also include lava pools, spawners, geodes, fire patches in the nether, etc.
 [^2]: Nether Fossils are for some reason are considered a structure in the code.
