@@ -7,13 +7,15 @@ All of the datapacks in this collection let you generate Superflat-style worlds,
 
 ---
 
+# Datapack Versions
+
 ## Superflat Classic Version 1:
 Modeled after the Classic Default Superflat preset; Boring to look at, an interesting challenge to play.  
 [More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V1MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/aae4e032-2fba-4e81-8119-73131e2e13ac)
 
 ## Superflat Classic Version 2:
-Like Version 1, but a lot more aesthetically pleasing with the foliage and water.  
+Like Version 1, but a lot more aesthetically pleasing with the foliage[^1] and water.  
 [More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V2MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/7ec717c7-0a71-4ae5-85d5-7b68ba91cbc5)
 
