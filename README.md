@@ -1,4 +1,4 @@
-# Better Superflat Datapack Collection
+# Flattened Dimensions
 
 ### Tired of the boring single-biome vanilla superflat options?  
 Try out my Datapacks!
@@ -9,19 +9,22 @@ All of the datapacks in this collection let you generate Superflat-style worlds,
 
 # Datapack Versions
 
-## Superflat Classic Version 1:
-Modeled after the Classic Default Superflat preset; Boring to look at, an interesting challenge to play.  
+## Superflat Dimensions  
+Modeled after the Classic Default Superflat preset.  
+Boring to look at, an interesting challenge to play.  
 [More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V1MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/aae4e032-2fba-4e81-8119-73131e2e13ac)
 
-## Superflat Classic Version 2:
-Like Version 1, but a lot more aesthetically pleasing with the foliage[^1] and water.  
+## Superflat Dimensions II  
+Modeled after the Classic Default Superflat preset.  
+Adds foliage[^1] and water to the Superflat Dimensions datapack. More aesthetically pleasing.  
 [More images and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V2MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/7ec717c7-0a71-4ae5-85d5-7b68ba91cbc5)
 
-## Superflat World Version 3 & 3.5:
-Modeled after the "Overworld" Superflat Preset; all the land is capped at sea-level. Foliage,[^1] ores, rivers, and oceans all generate like normal.  
-Version 3 doesn't generate with caves, but Version 3.5 adds them!  
+## Flat Dimensions  
+Modeled after the "Overworld" Superflat Preset  
+All the land is capped at sea-level. Foliage,[^1] ores, rivers, and oceans all generate like normal.  
+There is also another version of this that generates with caves.  
 [More mages and download page](https://github.com/Quidvio/Better-Superflat-Datapacks/releases/tag/V3MC1.20)  
 ![image](https://github.com/Quidvio/Better-Superflat-Datapacks/assets/105707614/b7c5dab9-1970-43f0-95d4-8d2b1ba4e755)
 
