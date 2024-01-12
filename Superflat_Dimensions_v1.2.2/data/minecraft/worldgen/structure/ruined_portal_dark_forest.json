@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:ruined_portal",
+  "biomes": "minecraft:dark_forest",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "setups": [
+    {
+      "placement": "in_mountain",
+      "air_pocket_probability": 1,
+      "mossiness": 0.2,
+      "overgrown": false,
+      "vines": false,
+      "can_be_cold": true,
+      "replace_with_blackstone": false,
+      "weight": 0.5
+    }
+  ]
+}

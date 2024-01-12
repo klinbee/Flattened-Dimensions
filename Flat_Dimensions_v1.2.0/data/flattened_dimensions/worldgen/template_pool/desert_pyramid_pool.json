@@ -1,0 +1,24 @@
+{
+  "name": "minecraft:desert_pyramid",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "flattened_dimensions:desert_temple1",
+        "projection": "rigid",
+        "processors": "flattened_dimensions:desert_temple_sand"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "flattened_dimensions:desert_temple2",
+        "projection": "rigid",
+        "processors": "flattened_dimensions:desert_temple_sand"
+      }
+    }
+  ]
+}

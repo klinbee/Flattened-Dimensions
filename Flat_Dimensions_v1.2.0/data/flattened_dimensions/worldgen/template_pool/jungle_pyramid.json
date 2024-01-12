@@ -1,0 +1,15 @@
+{
+  "name": "flattened_dimensions:jungle_pyramid",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "flattened_dimensions:jungle_temple",
+        "projection": "rigid",
+        "processors": "minecraft:mossify_70_percent"
+      }
+    }
+  ]
+}

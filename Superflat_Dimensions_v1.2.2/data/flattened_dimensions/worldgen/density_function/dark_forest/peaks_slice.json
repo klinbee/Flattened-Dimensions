@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:range_choice",
+    "input": "minecraft:overworld/ridges",
+    "min_inclusive": -0.767,
+    "max_exclusive": -0.567,
+    "when_in_range": "flattened_dimensions:dark_forest/peaks",
+    "when_out_of_range": 0
+  },
+  "argument2": {
+    "type": "minecraft:range_choice",
+    "input": "minecraft:overworld/ridges",
+    "min_inclusive": 0.567,
+    "max_exclusive": 0.767,
+    "when_in_range": "flattened_dimensions:dark_forest/peaks",
+    "when_out_of_range": 0
+  }
+}

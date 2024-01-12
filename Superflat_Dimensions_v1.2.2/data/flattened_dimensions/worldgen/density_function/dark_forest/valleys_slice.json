@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "minecraft:overworld/ridges",
+  "min_inclusive": -0.05,
+  "max_exclusive": 0.05,
+  "when_in_range": "flattened_dimensions:dark_forest/valleys",
+  "when_out_of_range": 0
+}

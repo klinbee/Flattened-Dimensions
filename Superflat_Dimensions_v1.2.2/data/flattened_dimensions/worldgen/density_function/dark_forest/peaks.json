@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:overworld/erosion",
+      "min_inclusive": 0.55,
+      "max_exclusive": 10,
+      "when_in_range": {
+        "type": "minecraft:range_choice",
+        "input": "minecraft:overworld/continents",
+        "min_inclusive": -0.19,
+        "max_exclusive": 10,
+        "when_in_range": 1,
+        "when_out_of_range": 0
+      },
+      "when_out_of_range": 0
+    },
+    "argument2": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:overworld/erosion",
+      "min_inclusive": -0.375,
+      "max_exclusive": 0.45,
+      "when_in_range": {
+        "type": "minecraft:range_choice",
+        "input": "minecraft:overworld/continents",
+        "min_inclusive": -0.19,
+        "max_exclusive": 10,
+        "when_in_range": 1,
+        "when_out_of_range": 0
+      },
+      "when_out_of_range": 0
+    }
+  },
+  "argument2": {
+    "type": "minecraft:range_choice",
+    "input": "minecraft:overworld/erosion",
+    "min_inclusive": -0.78,
+    "max_exclusive": -0.375,
+    "when_in_range": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:overworld/continents",
+      "min_inclusive": -0.19,
+      "max_exclusive": 0.03,
+      "when_in_range": 1,
+      "when_out_of_range": 0
+    },
+    "when_out_of_range": 0
+  }
+}

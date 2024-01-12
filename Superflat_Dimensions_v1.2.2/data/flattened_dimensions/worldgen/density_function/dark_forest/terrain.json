@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "minecraft:y",
+  "min_inclusive": 61,
+  "max_exclusive": 65,
+  "when_in_range": 1,
+  "when_out_of_range": 0
+}
