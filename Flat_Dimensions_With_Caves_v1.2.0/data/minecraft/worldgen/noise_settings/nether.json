@@ -54,8 +54,8 @@
         },
         "argument2": {
           "type": "minecraft:y_clamped_gradient",
-          "from_y": 126,
-          "to_y": 128,
+          "from_y": 104,
+          "to_y": 104,
           "from_value": 0,
           "to_value": 1
         }
@@ -146,7 +146,7 @@
             "type": "minecraft:vertical_gradient",
             "random_name": "minecraft:bedrock_roof",
             "true_at_and_below": {
-              "below_top": 1
+              "below_top": 0
             },
             "false_at_and_above": {
               "below_top": 0
