@@ -36,6 +36,13 @@
           999
         ],
         "directory": "overlay2"
+      },
+      {
+        "formats": [
+          48,
+          999
+        ],
+        "directory": "overlay3"
       }
     ]
   }
