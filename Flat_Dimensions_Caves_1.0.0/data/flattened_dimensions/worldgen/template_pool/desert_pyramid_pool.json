@@ -6,7 +6,7 @@
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "flattened_dimensions:desert_temple1",
+        "location": "flattened_dimensions:desert_temple_left",
         "projection": "rigid",
         "processors": "flattened_dimensions:desert_temple_sand"
       }
@@ -15,7 +15,7 @@
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "flattened_dimensions:desert_temple2",
+        "location": "flattened_dimensions:desert_temple_right",
         "projection": "rigid",
         "processors": "flattened_dimensions:desert_temple_sand"
       }
