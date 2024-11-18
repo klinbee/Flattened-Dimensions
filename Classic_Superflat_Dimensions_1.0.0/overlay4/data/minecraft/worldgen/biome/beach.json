@@ -14,34 +14,19 @@
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "carvers": [
-    "minecraft:cave",
-    "minecraft:cave_extra_underground"
-  ],
+  "carvers": [],
   "features": [
     [],
     [],
-    [
-      "minecraft:amethyst_geode"
-    ],
-    [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
-    ],
     [],
     [],
     [],
     [],
-    [
-      "flattened_dimensions:-64",
-      "flattened_dimensions:-48",
-      "flattened_dimensions:-32",
-      "flattened_dimensions:-16"
-    ],
     [],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    [],
+    [],
+    [],
+    ["minecraft:freeze_top_layer"]
   ],
   "spawners": {
     "monster": [
