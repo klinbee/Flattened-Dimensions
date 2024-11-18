@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "values": [
     "#minecraft:is_beach",
     "#minecraft:is_river",
