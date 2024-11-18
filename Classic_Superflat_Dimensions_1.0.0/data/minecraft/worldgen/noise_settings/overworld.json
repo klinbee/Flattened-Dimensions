@@ -89,37 +89,6 @@
       {
         "type": "minecraft:condition",
         "if_true": {
-          "type": "minecraft:y_above",
-          "anchor": {
-            "absolute": -65
-          },
-          "surface_depth_multiplier": 0,
-          "add_stone_depth": false
-        },
-        "then_run": {
-          "type": "minecraft:condition",
-          "if_true": {
-            "type": "minecraft:not",
-            "invert": {
-              "type": "minecraft:y_above",
-              "anchor": {
-                "absolute": 0
-              },
-              "surface_depth_multiplier": 0,
-              "add_stone_depth": false
-            }
-          },
-          "then_run": {
-            "type": "minecraft:block",
-            "result_state": {
-              "Name": "minecraft:barrier"
-            }
-          }
-        }
-      },
-      {
-        "type": "minecraft:condition",
-        "if_true": {
           "type": "minecraft:vertical_gradient",
           "random_name": "minecraft:bedrock_floor",
           "true_at_and_below": {
