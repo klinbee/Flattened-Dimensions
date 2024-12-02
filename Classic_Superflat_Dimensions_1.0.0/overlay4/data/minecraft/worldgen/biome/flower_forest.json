@@ -25,7 +25,7 @@
     [],
     [],
     [],
-    ["minecraft:flower_flower_forest", "minecraft:flower_flower_forest"],
+    ["minecraft:flower_forest_flowers", "minecraft:flower_flower_forest"],
     ["minecraft:freeze_top_layer"]
   ],
   "spawners": {
