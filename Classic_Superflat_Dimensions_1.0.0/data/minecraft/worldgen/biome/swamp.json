@@ -27,7 +27,7 @@
     [],
     [],
     [],
-    [],
+    ["minecraft:flower_swamp"],
     ["minecraft:freeze_top_layer"]
   ],
   "spawners": {

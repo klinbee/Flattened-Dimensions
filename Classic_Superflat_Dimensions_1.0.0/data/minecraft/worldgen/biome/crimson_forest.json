@@ -43,9 +43,7 @@
     [],
     [],
     [],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "spawners": {
     "monster": [

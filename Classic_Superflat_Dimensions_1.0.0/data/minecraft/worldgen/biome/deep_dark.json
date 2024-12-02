@@ -31,7 +31,7 @@
     [],
     [],
     [],
-    [],
+    ["minecraft:flower_plains"],
     ["minecraft:freeze_top_layer"]
   ],
   "spawners": {

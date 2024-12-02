@@ -26,7 +26,7 @@
     [],
     [],
     [],
-    [],
+    ["minecraft:flower_default"],
     ["minecraft:freeze_top_layer"]
   ],
   "spawners": {

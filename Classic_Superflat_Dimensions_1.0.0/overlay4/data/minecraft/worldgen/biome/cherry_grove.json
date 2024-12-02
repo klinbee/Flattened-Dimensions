@@ -126,7 +126,7 @@
     [],
     [],
     [],
-    [],
+    ["minecraft:flower_cherry"],
     ["minecraft:freeze_top_layer"]
   ]
 }
