@@ -33,9 +33,7 @@
   "features": [
     [],
     [],
-    [
-      "minecraft:basalt_pillar"
-    ],
+    ["minecraft:basalt_pillar"],
     [],
     [],
     [],
@@ -47,9 +45,7 @@
       "minecraft:patch_crimson_roots"
     ],
     [],
-    [
-      "minecraft:spring_lava"
-    ]
+    ["minecraft:spring_lava"]
   ],
   "has_precipitation": false,
   "spawn_costs": {

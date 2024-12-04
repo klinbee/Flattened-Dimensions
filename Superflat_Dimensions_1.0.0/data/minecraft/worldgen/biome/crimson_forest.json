@@ -38,10 +38,7 @@
     [],
     [],
     [],
-    [
-      "minecraft:spring_open",
-      "minecraft:patch_fire"
-    ],
+    ["minecraft:spring_open", "minecraft:patch_fire"],
     [],
     [
       "minecraft:spring_lava",

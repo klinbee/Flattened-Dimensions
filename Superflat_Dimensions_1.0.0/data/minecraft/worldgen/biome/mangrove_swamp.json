@@ -1,9 +1,6 @@
 {
   "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground"
-    ]
+    "air": ["minecraft:cave", "minecraft:cave_extra_underground"]
   },
   "downfall": 0.9,
   "effects": {
@@ -28,12 +25,8 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_surface"
-    ],
-    [
-      "minecraft:amethyst_geode"
-    ],
+    ["minecraft:lake_lava_surface"],
+    ["minecraft:amethyst_geode"],
     [
       "minecraft:fossil_upper",
       "minecraft:fossil_lower",
@@ -42,10 +35,7 @@
     ],
     [],
     [],
-    [
-      "minecraft:disk_clay",
-      "minecraft:disk_grass"
-    ],
+    ["minecraft:disk_clay", "minecraft:disk_grass"],
     [],
     [
       "flattened_dimensions:-64",
@@ -61,9 +51,7 @@
       "minecraft:patch_waterlily",
       "minecraft:seagrass_swamp"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},

@@ -1,9 +1,6 @@
 {
   "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground"
-    ]
+    "air": ["minecraft:cave", "minecraft:cave_extra_underground"]
   },
   "downfall": 0.8,
   "effects": {
@@ -26,17 +23,9 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_surface"
-    ],
-    [
-      "minecraft:amethyst_geode",
-      "minecraft:forest_rock"
-    ],
-    [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
-    ],
+    ["minecraft:lake_lava_surface"],
+    ["minecraft:amethyst_geode", "minecraft:forest_rock"],
+    ["minecraft:monster_room", "minecraft:monster_room_deep"],
     [],
     [],
     [],
@@ -62,9 +51,7 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},

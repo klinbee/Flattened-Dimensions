@@ -1,8 +1,5 @@
 {
-  "carvers": [
-    "minecraft:cave",
-    "minecraft:cave_extra_underground"
-  ],
+  "carvers": ["minecraft:cave", "minecraft:cave_extra_underground"],
   "creature_spawn_probability": 0.07,
   "downfall": 0.5,
   "effects": {
@@ -19,20 +16,10 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_surface"
-    ],
-    [
-      "minecraft:amethyst_geode"
-    ],
-    [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
-    ],
-    [
-      "minecraft:ice_spike",
-      "minecraft:ice_patch"
-    ],
+    ["minecraft:lake_lava_surface"],
+    ["minecraft:amethyst_geode"],
+    ["minecraft:monster_room", "minecraft:monster_room_deep"],
+    ["minecraft:ice_spike", "minecraft:ice_patch"],
     [],
     [],
     [],
@@ -52,9 +39,7 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},

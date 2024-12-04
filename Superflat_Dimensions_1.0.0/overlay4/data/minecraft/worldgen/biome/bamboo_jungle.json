@@ -1,8 +1,5 @@
 {
-  "carvers": [
-    "minecraft:cave",
-    "minecraft:cave_extra_underground"
-  ],
+  "carvers": ["minecraft:cave", "minecraft:cave_extra_underground"],
   "downfall": 0.9,
   "effects": {
     "fog_color": 12638463,
@@ -24,16 +21,9 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_surface"
-    ],
-    [
-      "minecraft:amethyst_geode"
-    ],
-    [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
-    ],
+    ["minecraft:lake_lava_surface"],
+    ["minecraft:amethyst_geode"],
+    ["minecraft:monster_room", "minecraft:monster_room_deep"],
     [],
     [],
     [],
@@ -57,9 +47,7 @@
       "minecraft:vines",
       "minecraft:patch_melon"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},
