@@ -27,7 +27,7 @@
     [],
     [],
     [],
-    [],
+    ["minecraft:pale_garden_flowers", "minecraft:flower_pale_garden"],
     ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
