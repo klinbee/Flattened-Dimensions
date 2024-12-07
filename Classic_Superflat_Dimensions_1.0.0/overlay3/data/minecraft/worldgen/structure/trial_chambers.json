@@ -36,7 +36,6 @@
       "spawns": []
     }
   },
-  "terrain_adaptation": "encapsulate",
   "start_pool": "minecraft:trial_chambers/chamber/end",
   "size": 20,
   "start_height": {
